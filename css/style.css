@@ -1,0 +1,15 @@
+@import "./global/global.css";
+
+@import "./global/header.css";
+
+/*Home*/
+@import "./home/introducao.css";
+
+/*Utilidades*/
+@import "./utilidades/cores.css";
+@import "./utilidades/componentes.css";
+@import "./utilidades/tipografia.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap");
+
+
