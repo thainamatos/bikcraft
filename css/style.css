@@ -1,14 +1,19 @@
 @import "./global/global.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
 
 @import "./global/header.css";
 
-/*Home*/
-@import "./home/introducao.css";
-
-/*Utilidades*/
-@import "./utilidades/cores.css";
+/* Utilidades */
 @import "./utilidades/componentes.css";
-@import "./utilidades/tipografia.css";
+
+/* Home */
+@import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap");
 
