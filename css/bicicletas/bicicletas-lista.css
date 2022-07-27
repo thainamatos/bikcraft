@@ -21,7 +21,11 @@
     padding: 0 20px 20px 20px;
     max-width: 1400px;
     margin: 0 auto 0 auto;
-    overflow-x: auto; /*define o que acontece caso o conteudo estoure o container*/
+    overflow-x: hidden; /*define o que acontece caso o conteudo estoure o container*/
+}
+
+#bicicleta .bicicletas-lista ul {
+    padding: 0px 0px 20px 0px;
 }
 
 .bicicletas-lista li{
