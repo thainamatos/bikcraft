@@ -17,95 +17,95 @@
 <h2> HOME 🏠 <h2/>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home1.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home1.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home2.png" alt="demonstration" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home2.png" alt="demonstration" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home3.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home3.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home4.png" alt="demonstration" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home4.png" alt="demonstration" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home5.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home5.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home6.png" alt="demonstration" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home6.png" alt="demonstration" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home7.png" alt="demonstration" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/HOME/Home7.png" alt="demonstration" width="600">
 </h3>
 
 <h2> BICICLETAS 🚲 <h2/>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes1.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes1.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes2.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes2.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes3.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes3.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes4.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes4.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes5.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes5.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes6.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/BICICLETAS/Bikes6.png" width="600">
 </h3>
 
 <h2> SEGUROS ⚠️ <h2/>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/SEGUROS/Seguros1.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/SEGUROS/Seguros1.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/SEGUROS/Seguros2.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/SEGUROS/Seguros2.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/SEGUROS/Seguros3.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/SEGUROS/Seguros3.png" width="600">
 </h3>
 
 <h2> ORÇAMENTO 💲<h2/>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/OR%C3%87AMENTO/Or%C3%A7amento1.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/OR%C3%87AMENTO/Or%C3%A7amento1.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/OR%C3%87AMENTO/Or%C3%A7amento2.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/OR%C3%87AMENTO/Or%C3%A7amento2.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/OR%C3%87AMENTO/Or%C3%A7amento3.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/OR%C3%87AMENTO/Or%C3%A7amento3.png" width="600">
 </h3>
 
 <h2> CONTATO ☎️<h2/>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/CONTATO/Contato1.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/CONTATO/Contato1.png" width="600">
 </h3>
 
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/CONTATO/Contato2.png" width="700">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/CONTATO/Contato2.png" width="600">
 </h3>
 
 
@@ -116,9 +116,9 @@
 
 Projeto desenvolvido com:
 
-- ✔️ HTML
+-  HTML ✔️
 
-- ✔️ CSS
+-  CSS ✔️
 
 <br>
 <h3 align="center">
