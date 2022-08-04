@@ -48,11 +48,6 @@
   <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/CONTATO/Contato1.png" width="600">
 </h3>
 
-<h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/CONTATO/Contato2.png" width="600">
-</h3>
-
-
 <h1 align="Center">
  🚀 Tecnologias
 </h1>
