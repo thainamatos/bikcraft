@@ -1,4 +1,4 @@
-# bikcraft
+# bikcraft 🚴
 
 <h1 align="Center"> 💻 Projeto 🔥 </h1>
 
@@ -7,12 +7,13 @@
  Além de páginas completamente responsivas e interativas.
  
 <h3 align="center">
-  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/Home-gif.gif" alt="demonstration" width="500">
+  <img src="https://github.com/thainamatos/bikcraft/blob/main/prints-bikcraft/Home-gif.gif" alt="demonstration" width="600">
 <h3>
+<br>
+<h1 align="center">
+📃 Páginas
+</h1> 
 
-<h1 align="Center">
-🎨 Páginas
-</h1>
 <h2> HOME 🏠 <h2/>
 
 <h3 align="center">
@@ -113,7 +114,7 @@
  🚀 Tecnologias
 </h1>
 
-Projeto desenvolvido com::
+Projeto desenvolvido com:
 
 - ✔️ HTML
 
