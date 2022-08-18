@@ -58,6 +58,8 @@ Projeto desenvolvido com:
 
 -  CSS ✔️
 
+-  JS ✔️
+
 <br>
 <h3 align="center">
   
